@@ -1,0 +1,61 @@
+# האי הקסום — Generative Engine Optimization Map
+
+> A הוצאה לאור / ספרי ילדים business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-b28604e3.zappy5.app
+האי הקסום - ספר ילדים קסום המלמד על אומץ וחברות. קנו אונליין בתשלום ביט והזמינו הרצאות מרתקות לילדים!
+
+### הספר שלנו
+https://-b28604e3.zappy5.app/book
+גלו את ספר האי הקסום - ספר ילדים קסום עם סיפור מרתק על אומץ וחברות. קנו אונליין בתשלום ביט עם משלוח מהיר!
+
+### הרצאות
+https://-b28604e3.zappy5.app/lectures
+הרצאות לילדים הזמנה מבוססות על ספר האי הקסום. הרצאות אינטראקטיביות ומרתקות לגני ילדים, בתי ספר וימי הולדת!
+
+### אודות
+https://-b28604e3.zappy5.app/about
+הכירו את האנשים מאחורי האי הקסום - ספר ילדים קסום והרצאות מרתקות. הסיפור שלנו, החזון שלנו והערכים שמנחים אותנו.
+
+### צור קשר
+https://-b28604e3.zappy5.app/contact
+צרו קשר עם האי הקסום להזמנת ספר ילדים קסום לקנייה או הרצאות לילדים הזמנה. נשמח לענות על כל שאלה!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-b28604e3.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-b28604e3.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-b28604e3.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About האי הקסום
+האי הקסום is a business in the הוצאה לאור / ספרי ילדים industry.
+
+## Target Audience
+הורים וילדים
+
+## Industry
+הוצאה לאור / ספרי ילדים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-b28604e3.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-b28604e3.zappy5.app/robots.txt
